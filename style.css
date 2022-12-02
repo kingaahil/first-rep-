@@ -1,0 +1,25 @@
+padding:10px 5%;
+            /background-color:red;
+        }
+        header>*{
+            display:inline-block;
+            width:450px;
+        }
+        div{
+            width:10%;
+        }
+        a{
+            text-decoration:none;
+            color:black;
+            margin: 0px 10px; 
+        }
+        .banner{
+            margin: 20% 5%;
+            color:white;
+            font-size:22px;
+            
+        }
+        .post{
+            background-color:red;
+            padding:10px 5%;
+            text-align:center;  
